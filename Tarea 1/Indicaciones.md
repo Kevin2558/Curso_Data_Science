@@ -2,7 +2,7 @@
 
 1. **Objetivo de la Tarea**:
    Aplicar todo lo aprendido sobre Exploración de Datos (EDA) en un contexto realista. El dataset de House Sales in King County contiene información sobre ventas de casas (precio, número de habitaciones, metros cuadrados, ubicación, etc.). Su misión es analizar, limpiar y descubrir patrones usando las técnicas de estadística y visualización vistas en clase.
-   Pueden formar grupos de 2 a 3 alumnos.
+   Pueden formar grupos de 2 a 3 alumnos. Indicar nombres de sus integrantes en la primera celda del notebook de entrega.
 
 2. **Descripción del Dataset**
    Fuente Kaggle: [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
