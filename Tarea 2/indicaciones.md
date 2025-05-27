@@ -29,7 +29,7 @@
 | 5 | `uci-ml/energy-efficiency` | 768 × 8 (regresión) | **PCA** a 2 D; muestra por qué a veces la reducción **no** es necesaria (varianza explicada ≥ 90 %?) |
 
 
-# 🤖 Tarea 2, Parte 2 — Modelos Supervisados sobre Datos Reducidos
+# Parte 2 — Modelos Supervisados sobre Datos Reducidos
 
 ## 🎯 Objetivo
 Aplicar modelos supervisados sobre datasets con y sin reducción de dimensionalidad, comparando su rendimiento y utilidad.
@@ -91,7 +91,7 @@ Al final del notebook, agrega una sección:
 - ¿En qué casos la reducción de dimensionalidad **mejoró o perjudicó** el rendimiento?
 - ¿Qué técnica y modelo te parecieron más adecuados para cada tipo de datos?
 - ¿Recomendarías aplicar reducción de dimensionalidad antes de modelar?
-
+```
 ---
 
 Enlaces a los Datasets
@@ -122,11 +122,3 @@ Kaggle: https://www.kaggle.com/datasets/ujjwalchowdhury/energy-efficiency-data-s
 - Notebook (.ipynb) bien comentado.  
 - Incluye gráficos y celdas con los valores de varianza explicada / independencia.  
 - Una sección final “Conclusiones” (máx. ½ página) donde resumas qué técnica te pareció más informativa para cada dataset.
-- Al final, agrega una sección:
-  
-  ```markdown
-  ## 📌 Conclusiones
-  Reflexiona brevemente sobre:
-  - ¿Qué técnica de reducción fue más informativa?
-  - ¿Alguna proyección reveló estructura no visible antes?
-  - ¿En qué casos no fue útil reducir dimensiones?
